@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323039546082",
+    "project_id": "ework-6b880",
+    "storage_bucket": "ework-6b880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323039546082:android:1d0e55854ed04d9ef4acbb",
+        "android_client_info": {
+          "package_name": "com.example.ework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323039546082-o6u93ac6hlukopalf5fq9sjbflas669b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mayDzQv8YYSXI9DzQgm22WxIbXPhvFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323039546082-o6u93ac6hlukopalf5fq9sjbflas669b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

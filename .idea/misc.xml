@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EWork/app/src/main/res/drawable/btn_prs.xml" value="0.16574074074074074" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/btn_prs2.xml" value="0.15462962962962962" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/btn_stily.xml" value="0.16574074074074074" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/btn_stily1.xml" value="0.15462962962962962" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/list_advice.xml" value="0.14351851851851852" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/press.xml" value="0.16574074074074074" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/press1.xml" value="0.15462962962962962" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/splash_screen_bacground.xml" value="0.2703125" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/strt_action.xml" value="0.14635416666666667" />
+        <entry key="..\:/EWork/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/EWork/app/src/main/res/layout/advice_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/EWork/app/src/main/res/layout/list_advice.xml" value="0.25416666666666665" />
+        <entry key="..\:/EWork/app/src/main/res/layout/time_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/EWork/app/src/main/res/layout/time_layout_1.xml" value="0.25416666666666665" />
+        <entry key="..\:/EWork/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/EWork/app/src/main/res/xml/splash_style.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
