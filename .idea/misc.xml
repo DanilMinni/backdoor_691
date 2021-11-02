@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/EWork/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.23055555555555557" />
+        <entry key="..\:/EWork/app/src/main/res/drawable-mdpi/btn_prs2.xml" value="0.23055555555555557" />
+        <entry key="..\:/EWork/app/src/main/res/drawable-mdpi/btn_stily2.xml" value="0.23055555555555557" />
+        <entry key="..\:/EWork/app/src/main/res/drawable-mdpi/press2.xml" value="0.23055555555555557" />
         <entry key="..\:/EWork/app/src/main/res/drawable/btn_prs.xml" value="0.16574074074074074" />
         <entry key="..\:/EWork/app/src/main/res/drawable/btn_prs2.xml" value="0.15462962962962962" />
         <entry key="..\:/EWork/app/src/main/res/drawable/btn_stily.xml" value="0.16574074074074074" />
         <entry key="..\:/EWork/app/src/main/res/drawable/btn_stily1.xml" value="0.15462962962962962" />
+        <entry key="..\:/EWork/app/src/main/res/drawable/clock.xml" value="0.22870370370370371" />
         <entry key="..\:/EWork/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
         <entry key="..\:/EWork/app/src/main/res/drawable/list_advice.xml" value="0.14351851851851852" />
         <entry key="..\:/EWork/app/src/main/res/drawable/press.xml" value="0.16574074074074074" />
@@ -15,7 +20,9 @@
         <entry key="..\:/EWork/app/src/main/res/drawable/strt_action.xml" value="0.14635416666666667" />
         <entry key="..\:/EWork/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/EWork/app/src/main/res/layout/advice_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/EWork/app/src/main/res/layout/chat_layout.xml" value="0.264" />
         <entry key="..\:/EWork/app/src/main/res/layout/list_advice.xml" value="0.25416666666666665" />
+        <entry key="..\:/EWork/app/src/main/res/layout/list_item.xml" value="0.13020833333333334" />
         <entry key="..\:/EWork/app/src/main/res/layout/time_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/EWork/app/src/main/res/layout/time_layout_1.xml" value="0.25416666666666665" />
         <entry key="..\:/EWork/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
