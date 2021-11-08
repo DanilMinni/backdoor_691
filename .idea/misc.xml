@@ -27,10 +27,13 @@
         <entry key="..\:/EWork/app/src/main/res/layout/time_layout_1.xml" value="0.25416666666666665" />
         <entry key="..\:/EWork/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
         <entry key="..\:/EWork/app/src/main/res/xml/splash_style.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dmine/AndroidStudioProjects/StartAndroid/backdoor_691/app/src/main/res/layout/activity_main.xml" value="0.121875" />
+        <entry key="..\:/Users/dmine/AndroidStudioProjects/StartAndroid/backdoor_691/app/src/main/res/layout/chat_layout.xml" value="0.2" />
+        <entry key="..\:/Users/dmine/AndroidStudioProjects/StartAndroid/backdoor_691/app/src/main/res/layout/list_item.xml" value="0.2421875" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
